@@ -12,3 +12,15 @@ possibly a "sell if price drops by more than 10%, buy if price rises by more tha
 
 The important part of the version 1 is the backtest engine itself.
 The part that takes the data and loops over it with the strategy to generate a Profit/Loss (P/L) report.
+
+## Interesting ideas for version 2 (no hard plan)
+
+### Sharpe Ratio
+
+Add Sharpe ratio calculation.
+
+### Add slippage simulation
+
+### Add drawdown analysis
+
+### Use real transactions
